@@ -1,3 +1,3 @@
-import { App } from './app.js';
+import { App } from './app';
 
-App();
+App({ a: 10, b: 20 });
